@@ -9,5 +9,3 @@ Goal is to play around with vast potential of open ai chat completion api and fi
 2. Various Personality of Model for Achieving Various Goals
 3. Embedding of pdf, csv data files 
 3. Provide tools to model 
-
-
