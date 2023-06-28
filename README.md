@@ -1,6 +1,6 @@
-#### OPENAI API Experiment 
+# OPENAI API Experiment 
 
-### Overview 
+## Overview 
 Goal is to play around with vast potential of open ai chat completion api and find out list of things that can create value in society.
 
 ## Domains to play around 
