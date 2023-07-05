@@ -1,0 +1,16 @@
+{
+  "name": "openai-api-experiment",
+  "version": "1.0.0",
+  "description": "## Overview  Goal is to play around with vast potential of open ai chat completion api and find out list of things that can create value in society.",
+  "main": "notion_api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@notionhq/client": "^2.2.6",
+    "axios": "^1.4.0"
+  }
+}
